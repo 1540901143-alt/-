@@ -1,0 +1,6 @@
+{
+  "name": "NFT Character Landing",
+  "description": "探索下一代 NFT 数字角色。融合顶尖艺术与区块链技术，打造独一无二的数字身份，开启全新的互动体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
